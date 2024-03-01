@@ -25,7 +25,6 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pycharm/pycharm-original.svg" width="36" height="36" alt="Pycharm" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" /></a>
 <a href="https://www.r-project.org/other-docs.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg" width="36" height="36" alt="R" /></a>
-<a href="https://posit.co/downloads/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rstudio/rstudio-original.svg" width="36" height="36" alt="RStudio" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="SciKitLearn" /></a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/streamlit/streamlit-original.svg" width="36" height="36" alt="Streamlit" /></a>
 <a href="https://www.tensorflow.org/api_docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="Tensorflow" /></a>
@@ -33,7 +32,7 @@
 
 <h3 align="left">Others Links:</h3>
 <p align="left"> 
-<a href="https://twitter.com/prasad_shr37791" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/twitter/twitter-original.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/shreya-prasad-749724230/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" width="32" height="32" /></a>
 <a href="https://www.kaggle.com/shreyaprasad21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kaggle/kaggle-original.svg" width="32" height="32" /></a>
+<a href="https://twitter.com/prasad_shr37791" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/twitter/twitter-original.svg" width="32" height="32" /></a>
 </p>
