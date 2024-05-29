@@ -23,22 +23,18 @@
       <!-- Social Handles -->
       <td align="center">
         <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/nandita-gupta-906343222/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/nandita-gupta-906343222/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         <!-- X -->
-        <a href="https://x.com/n_and_it_a_27"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+        <a href="https://x.com/n_and_it_a_27"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
         <!-- Discord -->
         <a href='https://discord.gg/z34NCDEddG'><img align="center" src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' /></a>
-        <!-- Instagram -->
-        <a href="https://instagram.com/_nan_dita27_"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
       </td>
       <!-- Coding Handles -->
       <td align="center">
-        <!--HackerRank--> 
-        <a href="https://www.hackerrank.com/avdheshvarshney1"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
         <!--Leetcode--> 
-        <a href="https://www.leetcode.com/avdheshvarshney"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+        <a href="https://www.leetcode.com/avdheshvarshney"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
         <!--Kaggle--> 
-        <a href="https://kaggle.com/avdhesh15"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+        <a href="https://kaggle.com/avdhesh15"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
       </td>
     </tr>
   </tbody>
