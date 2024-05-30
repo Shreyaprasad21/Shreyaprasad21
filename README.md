@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Shreya Prasad</h1>
 
-## :zap: About Me 👦
-- 👨‍💻 Final year B.Tech student at Vellore Institute of Technology, Vellore
+## :zap: About Me 👧
+- 👩‍💻 Final year B.Tech student at Vellore Institute of Technology, Vellore
 - 🌍 I'm based in India
 - 🚀 Interested in Machine Learning and AI
 - 🧠 Currently learning Machine Learning
@@ -9,12 +9,12 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## :zap: Connect with me ✍️
+## :zap: Connect With Me 🤝
 <table align="center">
   <thead align="center">
     <tr align="center">
       <td align="center">💌 Social Handles</td>
-      <td align="center">🌏 Coding Handles</td>
+      <td align="center">🌐 Coding Handles</td>
     </tr>
   </thead>
 
@@ -42,18 +42,18 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## :zap: Tools and Technologies ⛷️
+## :zap: Tools and Technologies 🤖
 <table align="center">
   <thead align="center">
     <tr align="center">
       <!-- Competitive Programming Skills -->
-      <td align="center">👨‍💻 COMPETITIVE PROGRAMMING</td>
+      <td align="center">👩‍💻 COMPETITIVE PROGRAMMING</td>
       <!-- Data Science Skills -->
-      <td align="center">😎 MACHINE LEARNING</td>
+      <td align="center">💡 MACHINE LEARNING</td>
       <!-- Web Development Skills -->
-      <td align="center">🎉 DATA SCIENCE</td>
+      <td align="center">📊 DATA SCIENCE</td>
       <!-- Other Skills -->
-      <td align="center">✅ OTHERS</td>
+      <td align="center">👁️ OTHERS</td>
     </tr>
   </thead>
 
