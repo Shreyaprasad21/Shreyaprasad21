@@ -68,56 +68,56 @@
         <!-- Python -->
         <a href="https://www.python.org" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> </a>
         <!-- R -->
-        <a href="https://www.python.org" rel="noreferrer"> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/> </a>
+        <a href="https://www.r-project.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/> </a>
       </td>
       <!-- Machine Learning Skills -->
       <td align="center">
         <!-- Numpy -->
-        <a href="https://jupyter.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> </a>
+        <a href="https://numpy.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> </a>
         <!-- Pandas -->
-        <a href="https://https://numpy.pydata.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
+        <a href="https://pandas.pydata.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
         <!-- Matplotlib -->
-        <a href="https://pandas.pydata.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" /> </a>
+        <a href="https://matplotlib.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" /> </a>
         <!-- Scikit-Learn -->
-        <a href="https://matplotlib.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> </a>
+        <a href="https://scikit-learn.org/stable/" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> </a>
         <!-- Keras -->
-        <a href="https://plotly.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" /> </a>
+        <a href="https://keras.io/" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" /> </a>
         <!-- PyTorch -->
-        <a href="https://scikit-learn.org/stable/" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" /> </a>
+        <a href="https://pytorch.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" /> </a>
         <!-- Tensorflow -->
-        <a href="https://keras.io/" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow" /> </a>
+        <a href="https://www.tensorflow.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow" /> </a>
       </td>
       <!-- Data Science Skills -->
       <td align="center">
         <!-- Jupyter Notebook -->
-        <a href="https://www.w3.org/html/" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="html5" /> </a>
+        <a href="https://jupyter.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /> </a>
         <!-- Insiders -->
-        <a href="https://www.w3schools.com/css/" rel="noreferrer"> <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="css3" /> </a>
+        <a href="https://insiders.vscode.dev/" rel="noreferrer"> <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Insiders" /> </a>
         <!-- SQL -->
-        <a href="https://getbootstrap.com" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="bootstrap" /> </a>
+        <a href="https://www.mysql.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </a>
         <!-- SQLite -->
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="javascript" /> </a>
+        <a href="https://www.sqlite.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> </a>
         <!-- OpenCV -->
-        <a href="https://legacy.reactjs.org/docs/getting-started.html" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="react" /> </a>
+        <a href="https://opencv.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> </a>
         <!-- Anaconda -->
-        <a href="https://www.mongodb.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="mongodb" /> </a>
+        <a href="https://www.anaconda.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" /> </a>
         <!-- Django -->
-        <a href="https://expressjs.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="expressjs" /> </a>
+        <a href="https://www.djangoproject.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> </a>
         <!-- Flask -->
-        <a href="https://nodejs.org/en" rel="noreferrer"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="nodejs" /> </a>
+        <a href="https://flask.palletsprojects.com/en/3.0.x/" rel="noreferrer"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> </a>
         <!-- Pycharm -->
-        <a href="https://app.netlify.com" rel="noreferrer"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="netlify" /> </a>
+        <a href="https://www.jetbrains.com/pycharm/" rel="noreferrer"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Pycharm" /> </a>
       </td>
       <!-- Other Skills -->
       <td align="center">
         <!-- ChatGPT -->
         <a href="https://chat.openai.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="chatgpt" /> </a>
         <!-- Shell Script -->
-        <a href="https://www.figma.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" /> </a>
+        <a href="https://www.shellscript.sh/" rel="noreferrer"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" /> </a>
         <!-- Linux -->
-        <a href="https://www.markdownguide.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a>
+        <a href="https://www.linux.org/" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a>
         <!-- R Studio -->
-        <a href="https://git-scm.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="git" /> </a>
+        <a href="https://posit.co/download/rstudio-desktop/" rel="noreferrer"> <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="R Studio" /> </a>
         <!-- GitHub -->
         <a href="https://github.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /> </a>
         <!-- VSCode -->
