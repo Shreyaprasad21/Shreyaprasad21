@@ -32,9 +32,9 @@
       <!-- Coding Handles -->
       <td align="center">
         <!--Leetcode--> 
-        <a href="https://www.leetcode.com/avdheshvarshney"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
+        <a href="https://leetcode.com/u/sp12554647/"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
         <!--Kaggle--> 
-        <a href="https://kaggle.com/avdhesh15"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+        <a href="https://www.kaggle.com/shreyaprasad21"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
       </td>
     </tr>
   </tbody>
