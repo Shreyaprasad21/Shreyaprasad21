@@ -3,7 +3,7 @@
 ## :zap: About Me 👧
 - 👩‍💻 Final year B.Tech student at Vellore Institute of Technology, Vellore
 - 🌍 I'm based in India
-- 🚀 Interested in Machine Learning and AI
+- 🚀 Interested in Machine Learning and AI     
 - 🧠 Currently learning Machine Learning
 - ✉️ You can reach me by [email](mailto:sp12554647@gmail.com)
 
