@@ -27,7 +27,7 @@
         <!-- X -->
         <a href="https://x.com/prasad_shr37791"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
         <!-- Discord -->
-        <a href='https://discord.gg/z34NCDEddG'><img align="center" src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' /></a>
+        <a href=''><img align="center" src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' /></a>
       </td>
       <!-- Coding Handles -->
       <td align="center">
