@@ -26,8 +26,6 @@
         <a href="https://www.linkedin.com/in/shreya-prasad-749724230/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         <!-- X -->
         <a href="https://x.com/prasad_shr37791"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
-        <!-- Discord -->
-        <a href=''><img align="center" src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' /></a>
       </td>
       <!-- Coding Handles -->
       <td align="center">
