@@ -120,6 +120,8 @@
         <a href="https://github.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /> </a>
         <!-- VSCode -->
         <a href="https://code.visualstudio.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" /> </a>
+         <!-- Yarn-->
+        <a href="https://code.visualstudio.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" /> </a>
       </td>
     </tr>
   </tbody>
