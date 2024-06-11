@@ -131,8 +131,8 @@
 
 ## :zap: Statistics 📈
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyaprasad21&show_icons=true&theme=burnt-neon&rank_icon=github" alt="Shreya's GitHub stats" style="width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaprasad21&layout=compact&theme=burnt-neon" alt="Top Langs" style="width: 34%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyaprasad21&show_icons=true&theme=dark&rank_icon=github" alt="Shreya's GitHub stats" style="width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaprasad21&layout=compact&theme=dark" alt="Top Langs" style="width: 34%;">
   <br/>
   <img src="https://streak-stats.demolab.com?user=Shreyaprasad21&theme=burnt-neon" alt="GitHub Streak" style="width: 50%;">
 </div>
