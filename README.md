@@ -129,7 +129,7 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## :zap: Statistics 📊
+## :zap: Statistics 📈
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shreyaprasad21&show_icons=true&theme=dark&rank_icon=github" alt="Shreya's GitHub stats" style="width: 45%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaprasad21&layout=compact&theme=dark" alt="Top Langs" style="width: 34%;">
@@ -139,7 +139,7 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## :zap: Mapping My Contributions 📈
+## :zap: Mapping My Contributions 👊
 [![Shreya Prasad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyaprasad21&theme=react-dark)](https://github.com/Shreyaprasad/github-readme-activity-graph)
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
