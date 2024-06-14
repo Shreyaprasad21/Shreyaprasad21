@@ -3,7 +3,7 @@
 <h2 align='center'>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I%27m+Shreya_Prasad)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=COMPETITIVE+PROGRAMMER;FULL+STACK+WEB+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;UI/UX+ENTHUSIAST;ML/DS+ENTHUSIAST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=COMPETITIVE+PROGRAMMER;AI+ML+ENTHUSIAST;DATA+SCIENTIST;OPEN+SOURCE+CONTRIBUTOR)](https://git.io/typing-svg)
 
 <!--<p align='center'>
   <b><i>Let's connect! Find me on the web.</i></b>
