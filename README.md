@@ -1,9 +1,5 @@
-
-
-<h2 align='center'>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋</h2>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=I%27m+Shreya+Prasad)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=PROGRAMMER;AI+/+ML+ENTHUSIAST;DATA+SCIENTIST;OPEN+SOURCE+CONTRIBUTOR;READY+TO+COLLABORATE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=70&pause=600&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=PROGRAMMER;AI+/+ML+ENTHUSIAST;DATA+SCIENTIST;READY+TO+COLLABORATE)](https://git.io/typing-svg)
 
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Shreya Prasad</h1>
