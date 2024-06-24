@@ -147,3 +147,29 @@
 [![Shreya Prasad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyaprasad21&theme=react-dark)](https://github.com/Shreyaprasad/github-readme-activity-graph)
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+
+
+## :zap: My GitHub Stats 📊
+<div align="center">
+  <a href="https://github.com/Shreyaprasad21">
+    <!-- Trophies -->
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shreyaprasad21&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
+    <!-- Streak Counter -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyaprasad21&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
+    <!-- Most Used Languages -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyaprasad21&color=0e75b6&style=flat&theme=radical&hide_border=true" height="320em" alt="Most used languages" />
+    <!-- Contributor Stats -->
+    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Shreyaprasad21&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
+    <!-- Stats -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreyaprasad21&theme=2077" height="210em" alt="Stats" />
+    <!-- Top languages by commit -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreyaprasad21&theme=2077" height="210em" alt="Top languages by commit" />
+    <!-- Top languages by repo -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreyaprasad21&theme=2077" height="210em" alt="Top languages by repo" />
+    <!-- Histogram of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreyaprasad21&theme=2077" height="210em" alt="Histogram of Commits" />
+    <!-- Graph of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyaprasad21&theme=2077" height="210em" alt="Graph of Commits" />
+  </a>
+</div>
