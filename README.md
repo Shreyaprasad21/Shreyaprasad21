@@ -7,7 +7,7 @@
 ## :zap: About Me 👧               
 - 👩‍💻 Final year B.Tech student at Vellore Institute of Technology, Vellore
 - 🌍 I'm based in India
-- 🚀 Experienced in ML and DS projects     
+- 🚀 Experienced in ML and DS projects               
 - 🔎 Seeking exciting opportunities in Data Science            
 - ✉️ You can reach me by [email](mailto:sp12554647@gmail.com)
 
