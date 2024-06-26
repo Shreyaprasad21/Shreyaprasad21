@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Shreya Prasad</h1>
 
-## :zap: About Me 👧
+## :zap: About Me 👧               
 - 👩‍💻 Final year B.Tech student at Vellore Institute of Technology, Vellore
 - 🌍 I'm based in India
 - 🚀 Experienced in ML and DS projects     
