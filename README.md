@@ -144,11 +144,17 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## :zap: Mapping My Contributions 👊
-[![Shreya Prasad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyaprasad21&theme=react-dark)](https://github.com/Shreyaprasad/github-readme-activity-graph)
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 100%; max-width: 600px; border: 2px solid #333; border-radius: 8px; overflow: hidden; margin-bottom: 20px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyaprasad21&theme=react-dark" alt="GitHub Activity Graph" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 100%; max-width: 600px; border: 2px solid #333; border-radius: 8px; overflow: hidden;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyaprasad21&theme=react" alt="Graph of Commits" style="width: 100%; height: auto;">
+    </div>
+</div>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-
 
 ## :zap: My GitHub Stats 📊
 <div align="center">
@@ -173,3 +179,8 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyaprasad21&theme=2077" height="210em" alt="Graph of Commits" />
   </a>
 </div>
+
+
+
+
+
