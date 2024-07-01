@@ -152,10 +152,8 @@
     <div style="width: 100%; max-width: 600px; border: 2px solid #333; border-radius: 8px; overflow: hidden;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyaprasad21&theme=react" alt="Graph of Commits" style="width: 100%; height: auto;">
     </div>
-    <div style="width: 100%; max-width: 600px; border: 2px solid #333; border-radius: 8px; overflow: hidden; margin-top: 20px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreyaprasad21&theme=react" alt="Histogram of Commits" style="width: 100%; height: auto;">
-    </div>
 </div>
+
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
