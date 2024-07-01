@@ -174,8 +174,3 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreyaprasad21&theme=2077" height="210em" alt="Histogram of Commits" />
   </a>
 </div>
-
-
-
-
-
