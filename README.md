@@ -147,10 +147,13 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="width: 100%; max-width: 600px; border: 2px solid #333; border-radius: 8px; overflow: hidden; margin-bottom: 20px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyaprasad21&theme=react-dark" alt="GitHub Activity Graph" style="width: 100%; height: auto;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyaprasad21&theme=react" alt="GitHub Activity Graph" style="width: 100%; height: auto;">
     </div>
     <div style="width: 100%; max-width: 600px; border: 2px solid #333; border-radius: 8px; overflow: hidden;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyaprasad21&theme=react" alt="Graph of Commits" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 100%; max-width: 600px; border: 2px solid #333; border-radius: 8px; overflow: hidden; margin-top: 20px;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreyaprasad21&theme=react" alt="Histogram of Commits" style="width: 100%; height: auto;">
     </div>
 </div>
 
