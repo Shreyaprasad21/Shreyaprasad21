@@ -157,19 +157,19 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## :zap: My GitHub Stats 📊
+## :zap: My GitHub Commits 🌱
 <div align="center">
-  <a href="https://github.com/Shreyaprasad21">
-    <!-- Trophies -->
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shreyaprasad21&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
-    <!-- Top languages by commit -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreyaprasad21&theme=2077" height="210em" alt="Top languages by commit" />
-    <!-- Top languages by repo -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreyaprasad21&theme=2077" height="210em" alt="Top languages by repo" />
-    <!-- Histogram of Commits -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreyaprasad21&theme=2077" height="210em" alt="Histogram of Commits" />
-  </a>
+  <!-- Top languages by commit -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreyaprasad21&theme=nightowl" height="210em" alt="Top languages by commit" style="border: 1px solid #e1e4e8; border-radius: 8px; margin: 10px;">
+  <!-- Top languages by repo -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreyaprasad21&theme=nightowl" height="210em" alt="Top languages by repo" style="border: 1px solid #e1e4e8; border-radius: 8px; margin: 10px;">
+  <!-- Histogram of Commits -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreyaprasad21&theme=nightowl" height="210em" alt="Histogram of Commits" style="border: 1px solid #e1e4e8; border-radius: 8px; margin: 10px;">
 </div>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-
+## :zap: GitHub Trophies 🏆
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreyaprasad21&theme=dracula&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" />
+</div>
