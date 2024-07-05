@@ -162,10 +162,6 @@
   <a href="https://github.com/Shreyaprasad21">
     <!-- Trophies -->
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shreyaprasad21&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
-    <!-- Contributor Stats -->
-    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Shreyaprasad21&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
-    <!-- Stats -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreyaprasad21&theme=2077" height="210em" alt="Stats" />
     <!-- Top languages by commit -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreyaprasad21&theme=2077" height="210em" alt="Top languages by commit" />
     <!-- Top languages by repo -->
@@ -174,3 +170,6 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreyaprasad21&theme=2077" height="210em" alt="Histogram of Commits" />
   </a>
 </div>
+
+
+
